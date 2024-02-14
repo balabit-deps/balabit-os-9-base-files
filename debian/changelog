@@ -1,3 +1,9 @@
+base-files (12ubuntu4.6) jammy; urgency=medium
+
+  * /etc/issue{,.net}, /etc/{lsb,os}-release: bump version to 22.04.4
+
+ -- Graham Inggs <ginggs@ubuntu.com>  Wed, 14 Feb 2024 14:47:50 +0000
+
 base-files (12ubuntu4.5) jammy; urgency=medium
 
   * motd/10-help-text: Update support url for new Ubuntu Pro webpage
